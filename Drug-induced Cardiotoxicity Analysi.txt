@@ -1,0 +1,8 @@
+Drug-induced Cardiotoxicity Analysis Using Graph Neural Networks
+
+-Chaix, Marie-A., et al. "Machine learning identifies clinical and genetic factors associated with anthracycline cardiotoxicity in pediatric cancer survivors." Cardio Oncology 2.5 (2020): 690-706.
+-Li, Chao, et al. "Using Machine Learning Approaches to Predict Short-Term Risk of Cardiotoxicity Among Patients with Colorectal Cancer After Starting Fluoropyrimidine-Based Chemotherapy." Cardiovascular Toxicology (2021): 1-11.
+-Cai, Chuipu, et al. "Deep learning-based prediction of drug-induced cardiotoxicity." Journal of chemical information and modeling 59.3 (2019): 1073-1084.
+-Rácz, Anita, et al. "Machine learning models for classification tasks related to drug safety." Molecular Diversity 25.3 (2021): 1409-1424.
+
+Dataset - https://www.tensorflow.org/datasets/catalog/cardiotox?bookmark=true
